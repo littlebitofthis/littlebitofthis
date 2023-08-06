@@ -7,11 +7,11 @@
 
 Welcome to my Github page!
 
-<img align="right" alt="img" src="https://github.com/efecss/readmeimages/blob/main/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/littlebitofthis/readmeimages/blob/main/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Discord bot coding  
+- Bot coding  
 - Taking online courses about Coding Learning 
 - Business practices on 🚀 *coming soon*
 
